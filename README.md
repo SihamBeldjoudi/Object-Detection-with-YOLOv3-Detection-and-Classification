@@ -70,7 +70,7 @@ This project can be extended and adapted for various applications:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/SihamBeldjoudi/Object-Detection-with-YOLOv3-Detection-and-Classification.git
-   cd your-repo-name
+   cd Object-Detection-with-YOLOv3-Detection-and-Classification
    ```
 
 2. **Open in Google Colab**:
